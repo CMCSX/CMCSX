@@ -1,8 +1,8 @@
 <br clear="both">
 
 <h1 align="center">Hi, Im Chris Santoyo ✌️</h1>
-<h2 align="center">An Aspiring Developer/Data Analyst at S.P. Madrid Philippines<h2>
-<h2 align="center">Currently working on developing a website for Data Analysts allowing for easier viewing of data!<h2>
+<h3 align="center">An Aspiring Developer/Data Analyst at S.P. Madrid Philippines<h3>
+<h3 align="center">Currently working on developing a website for Data Analysts allowing for easier viewing of data!<h3>
 
 ###
 
