@@ -1,4 +1,14 @@
+<div align="center">
+  <img height="275" src="https://www.image2url.com/r2/default/images/1776654176958-978b3ddf-6850-47a1-b80b-82020c0760d0.png"  />
+</div>
+
+###
+
 <h1 align="center">Hi, Im Christopher Santoyo!</h1>
+
+###
+
+<h3 align="center">My Current TechStack:</h3>
 
 ###
 
@@ -26,6 +36,10 @@
 
 ###
 
+<h3 align="center">My Socials:</h3>
+
+###
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -33,5 +47,32 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="center">Current Stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:CMCSX?theme=capoo-1&padding=8&scale=1&align=top&pixelated=1&darkmode=1"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CMCSX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=CMCSX&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CMCSX/CMCSX/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CMCSX/CMCSX/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CMCSX/CMCSX/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
