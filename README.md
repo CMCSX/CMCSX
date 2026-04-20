@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Christopher Santoyo</h1>
-<h3 align="center">A Developer/Data Analyst Intern from The USA</h3>
+<h1 align="center">Hi, I'm Christopher Santoyo</h1>
+<h3 align="center">A Developer/Data Analyst Intern from the Philippines</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmcsx" alt="cmcsx" /></a> </p>
 
-- 🔭 I’m currently working on [PayAnalytics: A Data Preview website](https://github.com/CMCSX/PayAnalytics_UPDATED)
+- I’m currently working on [PayAnalytics: A Data Preview website](https://github.com/CMCSX/PayAnalytics_UPDATED)
 
 - Linked In: **linkedin.com/cmcsx**
 
