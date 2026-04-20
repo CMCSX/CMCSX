@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h3 align="center">My TechStack:</h3>
+<h3 align="center">My TechStack:</h1>
 
 ###
 
@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<h3 align="center">My Socials:</h3>
+<h3 align="center">My Socials:</h1>
 
 ###
 
