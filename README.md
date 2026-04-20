@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="275" src="https://www.image2url.com/r2/default/images/1776654176958-978b3ddf-6850-47a1-b80b-82020c0760d0.png"  />
+  <img src="https://www.image2url.com/r2/default/images/1776654176958-978b3ddf-6850-47a1-b80b-82020c0760d0.png" alt="image" />
 </div>
 
 ###
