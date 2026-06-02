@@ -1,4 +1,4 @@
-<h2> Hi, I'm Christopher Santoyo!</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=000000&width=435&height=25&lines=Hi!+I'm+Christopher+Santoyo!)](https://git.io/typing-svg)
 <p><em>Developer/Data Analyst at S.P. Madrid Philippines</br>
 </em></p>
 
