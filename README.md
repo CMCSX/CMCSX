@@ -13,6 +13,9 @@ from: California, USA
 position: Developer/Data Analyst
 education: ["Bachelor's of Science in Information Technology"]
 company: N/A
+tech_communities:
+    - ["Google Developer Group - Manila"]
+    - ["TICP - Technology Internship Community of the Philippines"]
 socials:
     - ["instagram: "www.instagram.com/svlnpei"]
     - ["facebook: "www.facebook.com/cmcsx"]
