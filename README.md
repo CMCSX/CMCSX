@@ -2,6 +2,7 @@
 <p><em>Developer/Data Analyst at S.P. Madrid Philippines</br>
 </em></p>
 
+[![Curriculum Vitae](https://img.shields.io/badge/-Curriculum_Vitae-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/cmcsx](https://cmcsx.github.io/cmcsx_cv/SantoyoResume.pdf)/)](https://cmcsx.github.io/cmcsx_cv/SantoyoResume.pdf)
 [![Linkedin: CMCSX](https://img.shields.io/badge/-cmcsx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmcsx/)](https://www.linkedin.com/in/cmcsx/)
 [![GitHub CMCSX](https://img.shields.io/github/followers/CMCSX?label=follow&style=social)](https://github.com/CMCSX)
 
