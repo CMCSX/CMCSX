@@ -8,12 +8,14 @@
 ```javascript
 const chris = {
   pronouns: "he" | "him",
-  code: [C##, HTML, Javascript, Python],
   techCommunities: {
-                        Community 1: "TICP - Technology Internship Community of the Philippines",
-                        Community 2: "Google Developer Group - Manila",
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+      Community 1: "TICP - Technology Internship Community of the Philippines",
+      Community 2: "Google Developer Group - Manila",
+      },
+  Socials: {
+      Instagram: "www.instagram.com/svlnpei"
+      Facebook: "www.facebook.com/cmcsx"
+  }
 }
 ```
 
