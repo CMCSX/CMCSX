@@ -13,9 +13,10 @@ from: California, USA
 position: Developer/Data Analyst
 education: ["Bachelor's of Science in Information Technology"]
 company: N/A
-socials: {
-    instagram: "www.instagram.com/svlnpei",
-    facebook: "www.facebook.com/cmcsx"
+socials:
+    - ["instagram: "www.instagram.com/svlnpei"]
+    - ["facebook: "www.facebook.com/cmcsx"]
+
 fields_of_interests: ["Artificial Intelligence", "Android & iOS Updates", "Exploring technology software within github"]
 currently_learning: ["Python", "Snowflake"]
 hobbies: ["Motorcycles", "Competitive Gaming", "Technology"]
