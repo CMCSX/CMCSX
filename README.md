@@ -6,18 +6,19 @@
 [![Linkedin: CMCSX](https://img.shields.io/badge/-cmcsx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmcsx/)](https://www.linkedin.com/in/cmcsx/)
 [![GitHub CMCSX](https://img.shields.io/github/followers/CMCSX?label=follow&style=social)](https://github.com/CMCSX)
 
-```javascript
-const chris = {
-  pronouns: ["he", "him"],
-  techCommunities: {
-    community1: "TICP - Technology Internship Community of the Philippines",
-    community2: "Google Developer Group - Manila",
-  },
-  socials: {
+```yaml
+name: Christopher Santoyo
+located_in: Philippines
+from: California, USA
+position: Developer/Data Analyst
+education: ["Bachelor's of Science in Information Technology"]
+company: N/A
+socials: {
     instagram: "www.instagram.com/svlnpei",
     facebook: "www.facebook.com/cmcsx"
-  }
-};
+fields_of_interests: ["Artificial Intelligence", "Android & iOS Updates", "Exploring technology software within github"]
+currently_learning: ["Python", "Snowflake"]
+hobbies: ["Motorcycles", "Competitive Gaming", "Technology"]
 ```
 
 ## Current projects
