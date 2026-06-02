@@ -7,16 +7,16 @@
 
 ```javascript
 const chris = {
-  pronouns: "he" | "him",
+  pronouns: ["he", "him"],
   techCommunities: {
-      Community 1: "TICP - Technology Internship Community of the Philippines",
-      Community 2: "Google Developer Group - Manila",
-      },
-  Socials: {
-      Instagram: "www.instagram.com/svlnpei"
-      Facebook: "www.facebook.com/cmcsx"
+    community1: "TICP - Technology Internship Community of the Philippines",
+    community2: "Google Developer Group - Manila",
+  },
+  socials: {
+    instagram: "www.instagram.com/svlnpei",
+    facebook: "www.facebook.com/cmcsx"
   }
-}
+};
 ```
 
 ## Current projects
