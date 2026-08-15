@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=000000&width=435&height=25&lines=Hi!+I'm+Christopher+Santoyo!)](https://git.io/typing-svg)
-<p><em>Developer/Data Analyst at S.P. Madrid Philippines</br>
+<p><em>Software Developer</br>
 </em></p>
 
 [![Curriculum Vitae](https://img.shields.io/badge/-Curriculum_Vitae-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/cmcsx](https://cmcsx.github.io/cmcsx_cv/SantoyoResume.pdf)/)](https://cmcsx.github.io/cmcsx_cv/SantoyoResume.pdf)
